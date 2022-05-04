@@ -130,3 +130,11 @@ dmypy.json
 app/odours.sqlite
 /notes.txt
 /odourcollect.csv
+/.idea/.gitignore
+/.idea/csv-plugin.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/OCDarwinCore.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
