@@ -72,7 +72,7 @@ TYPE_LIST = {1: 'Waste|Fresh waste',
              61: 'Urban|Waste bin',
              62: 'Urban|Waste truck',
              63: 'Urban|Sweat',
-             64: 'Urban|<not used>',  # it seems odour number 64 was accidentaly ommited in original design
+             64: 'Urban|Cannabis',
              65: 'Urban|Fresh grass',
              66: 'Urban|Humidity / Wet soil',
              67: 'Urban|Flowers',
